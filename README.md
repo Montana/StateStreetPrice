@@ -1,5 +1,6 @@
-# StateStreetPrice
+# State Street Price
 Small script I wrote to check the price of State Street. (STT). 
+https://www.statestreet.com/us/en/asset-manager
 
 ## Usage
 
